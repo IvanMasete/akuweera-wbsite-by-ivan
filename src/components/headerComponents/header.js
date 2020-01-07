@@ -13,7 +13,7 @@ function Header() {
       <ul>
         <li>
       <h>Kampala</h> 
-      <img src="images/Fb14.jpg"/>
+      <img src="images/Fb14.JPG"/>
             
 
       </li>
