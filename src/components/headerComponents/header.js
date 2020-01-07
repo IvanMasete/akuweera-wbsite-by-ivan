@@ -11,7 +11,7 @@ function Header() {
     <h1></h1>
     <div className="logo">
       <ul>
-        <li>
+        <li>`
       <h>Kampala</h> 
       <img src="images/Fb14.JPG"/>
             
@@ -23,7 +23,7 @@ function Header() {
       <nav>
         <ul>
           <li>
-            <p><Link to = "MENU">MENU</Link></p>
+            <p><Link to = "MENU">Menu</Link></p>
           </li>
              </ul>
       </nav>
